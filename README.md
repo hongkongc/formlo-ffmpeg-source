@@ -9,7 +9,7 @@ The source archives are attached to the [releases](../../releases), one release 
 
 | Release | FFmpeg | Binary build | Shipped since |
 |---|---|---|---|
-| `ffmpeg-n9.0.2-3-ga5923073bf` | n9.0.2-3-ga5923073bf (release/9.0, commit `a5923073bfd8f25b7300d93af3f8e690174ebd30`) | [BtbN/FFmpeg-Builds `autobuild-2026-09-20-13-11`](https://github.com/BtbN/FFmpeg-Builds/releases/tag/autobuild-2026-09-20-13-11), `ffmpeg-n9.0.2-3-ga5923073bf-win64-lgpl-shared-9.0.zip` (sha256 `b532987f6e2ad6d114c1c21434ace634491fbeea358ca34b51f2a34b9f468f2c`) | Formlo for Windows 0.20.0 |
+| `ffmpeg-n9.0.2-3-ga5923073bf` | n9.0.2-3-ga5923073bf (release/9.0, commit `a5923073bfd8f25b7300d93af3f8e690174ebd30`) | [BtbN/FFmpeg-Builds `autobuild-2026-09-20-13-11`](https://github.com/BtbN/FFmpeg-Builds/releases/tag/autobuild-2026-09-20-13-11), `ffmpeg-n9.0.2-3-ga5923073bf-win64-lgpl-shared-9.0.zip` (sha256 `b532987f6e2ad6d114c1c21434ace634491fbeea358ca34b51f2a34b9f468f2c`) | Formlo for Windows 0.21.0 |
 
 Each archive contains:
 
